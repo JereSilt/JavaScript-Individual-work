@@ -1,0 +1,17 @@
+.normal {
+    border: solid black 2px;
+    height: auto;
+    width: auto;
+    margin: 10px;
+    padding: 5px;
+    
+}
+
+.important {
+    border: solid red 2px;
+    height: auto;
+    width: auto;
+    margin: 10px;
+    padding: 5px;
+}
+
